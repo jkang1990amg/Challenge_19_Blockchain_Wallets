@@ -6,6 +6,7 @@
 ################################################################################
 # Imports
 import os
+from mnemonic import mnemonic
 import requests
 from dotenv import load_dotenv
 load_dotenv()
