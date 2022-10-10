@@ -20,18 +20,18 @@ Complete the following steps:
 # a resulting transaction hash code will be written to the Streamlit
 # application sidebar.
 
-![Streamlit Application Send Transaction](./Challenge_19_Blockchain_Wallets/Starter_Code/Images/streamlit_send_transaction.png)
+![Streamlit Application Send Transaction](./Starter_Code/Images/streamlit_send_transaction.png)
 
 # 5. Navigate to the Ganache accounts tab and locate your account (index 0).
     # * Take a screenshot of the address, balance, and transaction (TX) count.
     # Save this screenshot to the README.md file of your GitHub repository for
     #  this Challenge assignment.
 
-![Ganache Accounts Tab Transaction](./Challenge_19_Blockchain_Wallets/Starter_Code/Images/ganache_accounts_tab_transaction.png)
+![Ganache Accounts Tab Transaction](./Starter_Code/Images/ganache_accounts_tab_transaction.png)
 
 # 6. Navigate to the Ganache transactions tab and locate the transaction.
     # * Click the transaction and take a screenshot of it.
     # Save this screenshot to the README.md file of your GitHub repository for
     #  this Challenge assignment.
 
-![Ganache Transaction Tab Transaction](./Challenge_19_Blockchain_Wallets/Starter_Code/Images/ganache_transaction_tab_transaction.png)
+![Ganache Transaction Tab Transaction](./Starter_Code/Images/ganache_transaction_tab_transaction.png)
